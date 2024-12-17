@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fad71f6a05c9a44999f4d1bfa00ecea, type: 3}
+  m_Name: Bicycle_tex_Data
+  m_EditorClassIdentifier: 
+  dataName: Bicycle
+  dragonBonesJSON: {fileID: 4900000, guid: 06307b9595a743b448a32da247838a05, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 81048b94ff75fcf409e440c0540228c5, type: 3}
+    texture: {fileID: 2800000, guid: 5e91ba8ad3f54a649912ac7896569d31, type: 3}
+    material: {fileID: 0}
+    uiMaterial: {fileID: 0}
