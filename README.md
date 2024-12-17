@@ -9,4 +9,4 @@ The complexity of this algorithm is due to several factors:
 
 Perhaps I’ll finish it someday, but for now, I’m leaving it here as a memory.
 
-![baseboy](https://github.com/user-attachments/assets/5e191790-d086-4e93-a005-448540bd4ada)
+![baseboy](https://github.com/user-attachments/assets/c931840b-6053-4367-9f77-d39a3ae0235d)
